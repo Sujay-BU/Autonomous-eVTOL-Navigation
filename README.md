@@ -24,7 +24,7 @@ have cost.
 ---
 
 ## Result
-[![Result Video](https://raw.githubusercontent.com/Sujay-BU/Autonomous-eVTOL-Navigation/blob/main/recordings/cover.jpg)](https://raw.githubusercontent.com/Sujay-BU/Autonomous-eVTOL-Navigation/blob/main/recordings/final_run2_VP3_to_VP2.mp4)
+[![Result Video](https://github.com/Sujay-BU/Autonomous-eVTOL-Navigation/blob/main/recordings/Cover.jpg)](https://github.com/Sujay-BU/Autonomous-eVTOL-Navigation/raw/refs/heads/main/recordings/final_run1_VP1_to_VP3.mp4)
 
 ---
 
