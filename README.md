@@ -23,6 +23,11 @@ have cost.
 
 ---
 
+## Result
+[![Result Video](https://raw.githubusercontent.com/Sujay-BU/Autonomous-eVTOL-Navigation/blob/main/recordings/cover.jpg)](https://raw.githubusercontent.com/Sujay-BU/Autonomous-eVTOL-Navigation/blob/main/recordings/final_run2_VP3_to_VP2.mp4)
+
+---
+
 ## Layout
 
 ```
