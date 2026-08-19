@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/glaze/Desktop/github_projects/Phy_WAM/sim/plugins/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

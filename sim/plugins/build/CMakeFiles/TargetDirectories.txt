@@ -1,0 +1,4 @@
+/home/glaze/Desktop/github_projects/Phy_WAM/sim/plugins/build/CMakeFiles/PhyWamPlant.dir
+/home/glaze/Desktop/github_projects/Phy_WAM/sim/plugins/build/CMakeFiles/PhyWamTraffic.dir
+/home/glaze/Desktop/github_projects/Phy_WAM/sim/plugins/build/CMakeFiles/edit_cache.dir
+/home/glaze/Desktop/github_projects/Phy_WAM/sim/plugins/build/CMakeFiles/rebuild_cache.dir
